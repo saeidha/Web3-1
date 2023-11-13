@@ -1,1 +1,1 @@
-rootProject.name = ""
+rootProject.name = "intellij-hardhat"
